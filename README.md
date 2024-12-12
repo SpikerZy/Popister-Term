@@ -1,6 +1,7 @@
 
   # P o p ister Terminal
 # Popister AI Agent ⭐️  
+
 ghf 
 Sizerra is a modular and edfbdcbxtensible AI agent framework designed to   interact with users, execute commands, and integrate seamlessly with plugins for additional functionality. This project serves as a foundation fo r buibh dffbd f lding intelligent systems po wered by AI.
 v 
