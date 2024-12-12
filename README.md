@@ -5,7 +5,7 @@ Sizerra is a modular and edfbdcbxtensible AI agent framework designed to  intera
 v
 ## Features  
 - 🤖 **AI Response Systedfgfdhdfhdm**: A basic AI-driven responsegbfgbgbf system ready for integration with advanced models like OpenAI or Hugging Face.
-- 🔗 **Plugin Support**: Easily extend functionality with custom plugins.
+- 🔗 **Plugin Support**: Easily extend functionality with cus tom plugins.
 - 📒 **Conversation Memoryvdvdf**: Logs user-agent interactions.
 - 🌐 **Future Ready**: Ready to integrate with Solana or other blockchain technologies.
 
