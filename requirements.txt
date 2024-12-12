@@ -1,0 +1,16 @@
+# Core dependencies
+openai==0.27.8       # For connecting to the OpenAI API
+numpy==1.25.2        # Useful for mathematical operations
+
+# Logging and debugging
+loguru==0.7.0        # Advanced logging system
+
+# Web and API communication
+flask==3.0.0         # For creating a simple web interface (if needed)
+requests==2.31.0     # For making HTTP requests
+
+# Plugin system (optional)
+importlib-metadata==6.8.0  # For dynamic plugin management
+
+# Additional tools
+python-dotenv==1.0.0  # For managing configuration using .env files
